@@ -1,4 +1,5 @@
 <resources>
 	<string name="app_name">Bedroom Dimmer</string>
 	<string name="label">Dim</string>
+	<string name="host">http://meterkast:9000</string>
 </resources>
